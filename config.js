@@ -24,7 +24,7 @@ export default {
    },
 
    msg: {
-      owner: 'Perintah ini hanya dapat digunakan oleh Owner!',
+      owner: 'blackpink_devil Owner!',
       group: 'Perintah ini hanya dapat digunakan di group!',
       private: 'Perintah ini hanya dapat digunakan di private chat!',
       admin: 'Perintah ini hanya dapat digunakan oleh admin group!',
